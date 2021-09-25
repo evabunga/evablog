@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Eva Bunga Blog"
 theme: "./.."
 relativeURLs: true
 
@@ -30,28 +30,27 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/profile.png"
-  name: "Example name"
+  profile_image: "/images/profilee.jpeg"
+  name: "Eva Bunga"
   namecolor: ffc107
   profession: "Profession"
-  github: "https://github.com"
-  linkedin: "https://linkedin.com"
+  github: "https://github.com/evabunga"
   twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
+  instagram: "https://www.instagram.com/eva.bggmm24/"
   facebook: "https://facebook.com"
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "Hallo selamat datang di blog saya."
+  descripe_l2_person: "ini adalah blog pribadi saya. kalian bisa lihat hasil kerja saya disini. [here](#projects)"
   skills:
-    - name: CSS
-      percentage: 90
-    - name: Django
+    - name: Menari
+      percentage: 100
+    - name: Desain CorelDraw
       percentage: 85
-    - name: Hugo
-      percentage: 80
-    - name: React JS
+    - name: Fotography
+      percentage: 75
+    - name: Marketing
       percentage: 70
 
   # Experience
