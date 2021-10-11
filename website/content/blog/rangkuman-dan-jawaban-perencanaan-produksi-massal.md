@@ -3,7 +3,6 @@ author = "Eva Bunga Mukaromah"
 bg_image = ""
 date = 2021-10-11T14:00:00Z
 description = ""
-draft = true
 tags = []
 title = "Rangkuman dan Jawaban Perencanaan Produksi Massal"
 toc = ""
