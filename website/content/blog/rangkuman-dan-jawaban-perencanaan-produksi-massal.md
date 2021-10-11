@@ -13,7 +13,7 @@ toc = ""
 
     Menurut Kamus Besar Bahasa Indonesia (KBBI), produksi adalah proses mengubah barang agar mempunyai kegunaan untuk memenuhi kebutuhan manusia. Produksi barang merupakan segala kegiatan untuk menciptakan atau menambah guna atas suatu benda yang ditunjukkan untuk memuaskan orang lain melalui pertukaran. Menurut Wikipedia, produksi massal adalah sistem produksi dalam jumlah besar dari produk yang standar, termasuk dan terutama pada lini perakitan.
 
-**Tujuan Produksi** 
+**Tujuan Produksi**
 
     Untuk menghasilkan suatu barang, menambah dan meningkatkan nilai guna barang yang sudah ada, serta memperoleh tambahan penghasilan untuk memenuhi semua kebutuhan manusia. Hasil suatu produk itulah yang didistribusikan dan dikonsumsi masyarakat secara luas.
 
@@ -59,7 +59,7 @@ Ciri-ciri produksi massal antara lain sebagai berikut.
 
 * Esai (B)
 
-1.  Ciri ciri produksi masal
+1. Ciri ciri produksi masal
 2. Tujuan dari produksi masal
 3. Tahap sistem produksi karena yang di maksud tahap sistem produksi yaitu Mengerjakan produksi dengan menggunakan mesin yg modern secara otomatis menjadikan barang menjadi lebih cepat dipasarkan
 4. marketing forecast kerena, marketing forecast dapat dilakukan proses perhitungan kebutuhan bahan, kapasitas produksi yang dibutuhkan, dan hal pendukung lainnya yang diperlukan dalam perencanaan produksi agar kualitasnya terjamin dan tepat.
@@ -77,12 +77,12 @@ Ciri-ciri produksi massal antara lain sebagai berikut.
 
 * Modal adalah salah satu faktor yang digunakan dalam melakukan
 
-  proses produksi. 
-* Tenaga kerja merupakan salah satu faktor produksi yang terpenting dalam proses produksi untuk menghasilkan barang maupun jasa di samping faktor produksi modal,sumber daya alam, teknologi dan manajemen. 
-* manajemen adalah prosesmengintegrasikan sumber-sumber yang tidak berhubungan menjadi sistem total untuk menyelesaikan suatu tujuan. 
+  proses produksi.
+* Tenaga kerja merupakan salah satu faktor produksi yang terpenting dalam proses produksi untuk menghasilkan barang maupun jasa di samping faktor produksi modal,sumber daya alam, teknologi dan manajemen.
+* manajemen adalah prosesmengintegrasikan sumber-sumber yang tidak berhubungan menjadi sistem total untuk menyelesaikan suatu tujuan.
 
 3. 
 
-* Mengatur Proses produksi, 
-* Mengendalikan proses Produksi, 
+* Mengatur Proses produksi,
+* Mengendalikan proses Produksi,
 * Mengoptimalkan kerja dan beban kerja
