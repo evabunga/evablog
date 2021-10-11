@@ -67,13 +67,13 @@ Ciri-ciri produksi massal antara lain sebagai berikut.
 
 * Esai (C)
 
-1. 
+1\.
 
 * Dibutuhkan Modal Yang Besar. Untuk melakukan produksi secara massal maka akan dibutuhkan mesin-mesin yang memperlancar produksi.
 * Pekerja Mengalami Penurunan Motivasi. Dalam produksi secara massal tentu efeknya terjadi tingkat produktivitas yang tinggi.
 * Kurang Fleksibel.
 
-2. 
+2\.
 
 * Modal adalah salah satu faktor yang digunakan dalam melakukan
 
@@ -81,7 +81,7 @@ Ciri-ciri produksi massal antara lain sebagai berikut.
 * Tenaga kerja merupakan salah satu faktor produksi yang terpenting dalam proses produksi untuk menghasilkan barang maupun jasa di samping faktor produksi modal,sumber daya alam, teknologi dan manajemen.
 * manajemen adalah prosesmengintegrasikan sumber-sumber yang tidak berhubungan menjadi sistem total untuk menyelesaikan suatu tujuan.
 
-3. 
+3\.
 
 * Mengatur Proses produksi,
 * Mengendalikan proses Produksi,
